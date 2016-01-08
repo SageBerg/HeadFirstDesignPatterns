@@ -1,0 +1,9 @@
+5
+D and F
+
+8
+Code sometimes has to be rewritten to be extensible and scale well.
+Code has to be rewritten to be more understandable to yourself and others.
+Code can change to accommodate a new technology that doesn't interface with the version of the language you're using.
+All the code needs to follow new style guidelines.
+Some of the codebase needs to be rewritten for mobile.
